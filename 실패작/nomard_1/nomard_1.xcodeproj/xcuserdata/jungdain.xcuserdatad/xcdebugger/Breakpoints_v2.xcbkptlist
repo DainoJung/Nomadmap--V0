@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "47DB7F25-1AE4-4470-895B-EB9CF28294F0"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "nomard_1/Models/ProductCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "CSCollectionViewCell"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7 - a5ad00c8b48b4d3f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nomard_1.CSCollectionViewCell.__allocating_init(frame: __C.CGRect) -&gt; nomard_1.CSCollectionViewCell"
+                  moduleName = "nomard_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungdain/Desktop/NomardMap/nomard_1/nomard_1/Models/ProductCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7 - 8ed6ca8716914d4d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nomard_1.CSCollectionViewCell.init(frame: __C.CGRect) -&gt; nomard_1.CSCollectionViewCell"
+                  moduleName = "nomard_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungdain/Desktop/NomardMap/nomard_1/nomard_1/Models/ProductCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "113">
+               </Location>
+               <Location
+                  uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7 - 8bc4e15ae1272fbd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nomard_1.CSCollectionViewCell.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;nomard_1.CSCollectionViewCell&gt;"
+                  moduleName = "nomard_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungdain/Desktop/NomardMap/nomard_1/nomard_1/Models/ProductCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7 - 3f2e0da19d6d125"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nomard_1.CSCollectionViewCell.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;nomard_1.CSCollectionViewCell&gt;"
+                  moduleName = "nomard_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungdain/Desktop/NomardMap/nomard_1/nomard_1/Models/ProductCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "74">
+               </Location>
+               <Location
+                  uuid = "97573BB2-536A-4F64-B583-A7C62440CEF7 - f45c6e19e5e8c6c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "nomard_1.CSCollectionViewCell.__deallocating_deinit"
+                  moduleName = "nomard_1"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jungdain/Desktop/NomardMap/nomard_1/nomard_1/Models/ProductCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
