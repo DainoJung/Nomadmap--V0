@@ -26,9 +26,9 @@ VerticalCardSwiper 오픈라이브러리를 사용하여 현대카드 UI를 구�
 
 ### Result
 
-<img src ="https://github.com/DainoJung/Nomadmap--V0/assets/117745618/a417effb-f680-427a-9d41-453981990398" width="250">
+<video src ="https://github.com/DainoJung/Nomadmap--V0/assets/117745618/a417effb-f680-427a-9d41-453981990398" width="250">
 
 
 ### Reference
 
-(VerticalcardswiperTutorial)["https://github.com/hyun99999/VerticalcardswiperTutorial-iOS"]
+["https://github.com/hyun99999/VerticalcardswiperTutorial-iOS"]
